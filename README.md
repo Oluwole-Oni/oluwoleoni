@@ -14,8 +14,12 @@ the  main  questions  they’d  like  to  answer:
 ● What  was  the  average  rental  duration  for  all  videos?   
 ● Which  countries  are  Rockbuster  customers  based  in?   
 ● Where  are  customers  with  a  high  lifetime  value  based?   
-● Do  sales  figures  vary  between  geographic  regions?   
-    
+● Do  sales  figures  vary  between  geographic  regions? 
+
+**Data  Set**
+
+Rockbuster’s data set consist of film,film  inventory,  customers,  and  payments,country, city, actor, address and many other data tables highlighted in the data dictionary
+      
 **Tools Used**  
 pgAdmin4: For managing PostgreSQL databases.
 PostgreSQL: Relational database management system (RDBMS) used to store and query Rockbuster's data.
